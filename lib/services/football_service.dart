@@ -8,7 +8,7 @@ class FootballApi{
   final String url = 'https://v3.football.api-sports.io/fixtures?live=all';
 
   var headers = {
-    'x-rapidapi-key': '93f785cfcadea82276f4d1980574a738',
+    'x-rapidapi-key': '',//your API key
     'x-rapidapi-host': 'v3.football.api-sports.io'
   };
 
